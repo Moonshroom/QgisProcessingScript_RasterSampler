@@ -1,2 +1,2 @@
-# QgisProcessingScript_RasterSampler
-Qgis Processing Script to generate raster samples from big raster
+# Qgis Processing Script - Raster_Sampler
+Generate raster samples from raster layer via Qgis 3.10
